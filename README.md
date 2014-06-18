@@ -5,21 +5,21 @@ A Jquery alerting plugin
 
 Browser support
 ------------
-*Chrome 33.0+
+* Chrome 33.0+
 
-*Safari 7.0+
+* Safari 7.0+
 
-*Firefox 28.0+
+* Firefox 28.0+
 
-*Opera 22.0+
+* Opera 22.0+
 
-*IE 8+ (Animation is available from IE 10)
+* IE 8+ (Animation is available from IE 10)
 
-*IOS Safari 5.0+
+* IOS Safari 5.0+
 
-*Android Browser 2.1+
+* Android Browser 2.1+
 
-*IE Mobile 10+
+* IE Mobile 10+
 
 Features
 -----------
